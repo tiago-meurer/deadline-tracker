@@ -1,6 +1,6 @@
-# flutter_app
+# Deadline Tracker
 
-A new Flutter project.
+This project is made with ispiration of flutter_ app, in Flutter Succinctly - by Ed Freitas. We use SQLite database to save and organize data, emiting an alert to notificate when a project added by user is about to reach certain deadline data.
 
 ## Getting Started
 
